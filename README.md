@@ -1,7 +1,7 @@
 # Acervo de Livros
 > Atividade para a Faculdade Claretiano
 
-![screenshot](./screenshot.png)
+![screenshot](./screenshot.gif)
 
 ## Ferramentas
 - PHP 8
