@@ -1,0 +1,16 @@
+@import 'https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css';
+
+.is-flex {
+  gap: 20px;
+}
+
+input[type=text],
+input[type=number],
+select {
+  width: 320px !important;
+}
+
+.w {
+  width: 1100px !important;
+  margin: 0 auto;
+}
